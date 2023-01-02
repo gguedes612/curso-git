@@ -1,0 +1,12 @@
+git init
+
+git status
+
+git add <file>
+
+.gitignore
+
+git commit -m "info commit"
+
+
+
