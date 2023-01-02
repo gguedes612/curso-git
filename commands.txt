@@ -18,7 +18,12 @@ git log --after="2023-01-01"
 
 git log --author="Guilherme de lima Guedes"
 
-git checkout <branch/commit>
+git checkout <branch/commit/file>
 
 git diff --staged
 
+git commit --amend -m "info commit"
+
+git restore --staged <arquivo>
+
+git reset HEAD --hard
