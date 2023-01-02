@@ -8,5 +8,17 @@ git add <file>
 
 git commit -m "info commit"
 
+git log
 
+git log --oneline
+
+git log --before="2023-01-01"
+
+git log --after="2023-01-01"
+
+git log --author="Guilherme de lima Guedes"
+
+git checkout <branch/commit>
+
+git diff --staged
 
