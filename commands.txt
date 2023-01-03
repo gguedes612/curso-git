@@ -29,3 +29,25 @@ git restore --staged <arquivo>
 git reset HEAD --hard
 
 git reset HEAD^ --hard
+
+<----------------------------------------------------->
+
+git branch
+
+git branch <branch>
+
+git checkout -b <branch>
+
+git merge <branch>
+
+git rebase <branch>
+
+git clone <link-repo>
+
+git fetch
+
+git pull
+
+git push
+
+git tag <tag>
